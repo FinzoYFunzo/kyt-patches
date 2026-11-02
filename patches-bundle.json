@@ -1,7 +1,8 @@
 {
-  "created_at": "",
-  "description": "",
-  "download_url": "",
+  "created_at": "2026-11-02T23:07:48",
+  "description": "## 1.0.0-dev.1 (2026-11-02)\n\n### ✨ New Features\n\n* add Rate Your Music search to the track, album and artist menus ([2d57f77](https://github.com/FinzoYFunzo/kyt-patches/commit/2d57f7708081d196cf6bf9b7c795a3ed9eef5cc4))",
+  "download_url": "https://github.com/FinzoYFunzo/kyt-patches/releases/download/v1.0.0-dev.1/patches-1.0.0-dev.1.mpp",
   "signature_download_url": "",
-  "version": ""
+  "version": "1.0.0-dev.1",
+  "public_key": "jCLXGg7CRJWDDWgUi0TSO5Exipxz/h0hfZJsSPgElXg="
 }
