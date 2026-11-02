@@ -1,14 +1,14 @@
-group = "app.template"
+group = "dev.nial"
 
 patches {
     // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
-        contact = "na"
-        website = "na"
+        name = "KYT Patches"
+        description = "Morphe patches focused on TIDAL"
+        source = "git@github.com:finzoyfunzo/kyt-patches.git"
+        author = "FinzoYFunzo"
+        contact = "https://github.com/finzoyfunzo/kyt-patches/issues"
+        website = "https://github.com/finzoyfunzo/kyt-patches"
         license = "GPLv3"
     }
 }

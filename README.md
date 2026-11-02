@@ -1,20 +1,53 @@
-# 👋🧩 Morphe Patches template
+# 📀 Know Your TIDAL Patches for Morphe
 
-Template repository for Morphe Patches.
+Patches for the TIDAL Android app that add quick ways to look up music on
+[Rate Your Music](https://rateyourmusic.com) (RYM), directly from TIDAL. Built for [Morphe](https://morphe.software/).
 
 ## ❓ About
 
-Patches for apps I like.
+TIDAL is great for listening, RYM is great for discovering what to listen to next.
+KYT ("Know Your TIDAL") connects both: open the menu of any song, album or artist in TIDAL
+and search it on RYM with a single tap, without copying names by hand.
 
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
+### ✨ Features
+
+| Menu (⋮) | Option | Searches on RYM |
+|---|---|---|
+| Song | Search on Rate Your Music | Song, release or artist (you choose) |
+| Album | Search on Rate Your Music | Release or artist (you choose) |
+| Artist | Search on Rate Your Music | Artist (opens directly) |
+
+Searches open in your default browser.
+
+<p align="center">
+  <img src=".github/assets/demo.gif" alt="Searching a song on Rate Your Music from TIDAL" width="300">
+</p>
+
+### 📱 Compatibility
+
+| App | Version | File type |
+|---|---|---|
+| TIDAL (`com.aspiro.tidal`) | 2.215.0 | APKM ([APKMirror](https://www.apkmirror.com/)) |
+
+Later versions may work, but are not tested.
 
 ### How to use these patches
 
-Click the button below, or manually add this repo url to Morphe Manager: https://github.com/xyz-user/xyz-patches
+Click the button below, or manually add this repo url to Morphe Manager: https://github.com/finzoyfunzo/kyt-patches
 
-<a href="https://morphe.software/add-source?github=xyz-user/xyz-patches">
+<a href="https://morphe.software/add-source?github=finzoyfunzo/kyt-patches">
   <img src=".github/assets/add-to-morphe.svg" alt="Add to Morphe" height="48">
 </a>
+
+### ❔ FAQ
+
+**Can I keep the original TIDAL installed?**
+Yes. Enable the "Clone app" patch from the official Morphe Patches source when patching.
+The patched app is then installed with a different package name, next to the original.
+
+**The patch fails or the option does not show up.**
+Make sure you are patching the supported TIDAL version listed above.
+If it still fails, please [open an issue](https://github.com/finzoyfunzo/kyt-patches/issues).
 
 ## 🩹 Patches list
 
@@ -98,6 +131,11 @@ To develop and release your Patches using this template:
 
 See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation) for more information.
 
+## ⚖️ Disclaimer
+
+This project is not affiliated with, endorsed by, or sponsored by TIDAL or Rate Your Music.
+All trademarks belong to their respective owners.
+
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+KYT Patches are licensed under the [GNU General Public License v3.0](LICENSE).
