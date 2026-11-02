@@ -52,7 +52,7 @@ If it still fails, please [open an issue](https://github.com/finzoyfunzo/kyt-pat
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0-dev.1](https://github.com/FinzoYFunzo/kyt-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.0.0](https://github.com/FinzoYFunzo/kyt-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
 <details open>
 <summary>📦 TIDAL&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
